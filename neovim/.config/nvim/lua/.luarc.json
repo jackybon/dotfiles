@@ -1,0 +1,24 @@
+{
+    "$schema": "https://raw.githubusercontent.com/sumneko/vscode-lua/master/setting/schema.json",
+    "Lua.workspace.library": [
+        "/root/.config/nvim",
+        "/root/.local/share/nvim/site",
+        "/root/.local/share/nvim/site/pack/packer/start/gruvbox.nvim",
+        "/root/.local/share/nvim/site/pack/packer/start/hop.nvim",
+        "/root/.local/share/nvim/site/pack/packer/start/lualine.nvim",
+        "/root/.local/share/nvim/site/pack/packer/start/mason-lspconfig.nvim",
+        "/root/.local/share/nvim/site/pack/packer/start/mason.nvim",
+        "/root/.local/share/nvim/site/pack/packer/start/nvim-web-devicons",
+        "/root/.local/share/nvim/site/pack/packer/start/packer.nvim",
+        "/root/.local/share/nvim/site/pack/packer/start/plenary.nvim",
+        "/root/.local/share/nvim/site/pack/paqs/start/paq-nvim",
+        "/root/.local/share/nvim/site/pack/packer/opt/nvim-lspconfig",
+        "/root/.local/share/nvim/site/pack/packer/opt/vim-easy-align",
+        "/root/.local/share/nvim/site/pack/packer/opt/tagalong.vim",
+        "/root/.local/share/nvim/site/pack/packer/opt/indent-blankline.nvim",
+        "/usr/share/nvim/runtime",
+        "/usr/share/nvim/runtime/pack/dist/opt/matchit",
+        "/usr/lib/x86_64-linux-gnu/nvim",
+        "${3rd}/luassert/library"
+    ]
+}

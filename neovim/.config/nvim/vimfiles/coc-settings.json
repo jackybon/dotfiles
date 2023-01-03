@@ -1,0 +1,16 @@
+{
+	"languageserver": {
+		"golang": {
+			"command": "gopls",
+			"rootPatterns": ["go.mod", ".vim/", ".git/", ".hg/"],
+			"filetypes": ["go"]
+		}
+	},
+	"coc.preferences.timeout": 3000,
+	"pairs.enableCharacters": ["(", "[", "{", "'", "\"", "`"],
+	"eslint.autoFixOnSave": true,
+  "eslint.filetypes": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
+	"tsserver.formatOnType": true,
+  "coc.preferences.formatOnType": true,
+	"rust-analyzer.updates.prompt": false
+}
